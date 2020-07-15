@@ -6,4 +6,4 @@ This public repository holds all the testcases used in the SUGAR Optimal Power F
 The output of each testcase from the SUGAR engine is available in the SUGAR-output folder as RAW files.
 
 
-[1] Amrithanshu Pandey, Aayushya Agarwal, Larry Pileggi, "Incremental Model Building Approach for Solving an Exact AC-Constrained Optimal Power Flow," archiv..., 2020
+[1] Amritanshu Pandey, Aayushya Agarwal, Larry Pileggi, "Incremental Model Building Approach for Solving an Exact AC-Constrained Optimal Power Flow," archiv..., 2020
